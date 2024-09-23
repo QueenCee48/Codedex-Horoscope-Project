@@ -1,0 +1,2 @@
+# Codedex-Horoscope-Project
+JavaScript
